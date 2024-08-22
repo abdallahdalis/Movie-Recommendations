@@ -23,13 +23,13 @@ This project is a Netflix Based Movie Recommendations web application that allow
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Netflix-Recommender-System.git
+   git clone https://github.com/your-username/Movie-Recommendations-Project.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Netflix-Recommender-System
+   cd Movie-Recommendations-Project
    ```
 
 3. Install the required Python packages:
